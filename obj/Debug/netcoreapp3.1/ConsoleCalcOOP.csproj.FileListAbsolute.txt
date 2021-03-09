@@ -1,0 +1,13 @@
+C:\Projects\DotNet\ConsoleCalc\ConsoleCalcOOP\bin\Debug\netcoreapp3.1\ConsoleCalcOOP.exe
+C:\Projects\DotNet\ConsoleCalc\ConsoleCalcOOP\bin\Debug\netcoreapp3.1\ConsoleCalcOOP.deps.json
+C:\Projects\DotNet\ConsoleCalc\ConsoleCalcOOP\bin\Debug\netcoreapp3.1\ConsoleCalcOOP.runtimeconfig.json
+C:\Projects\DotNet\ConsoleCalc\ConsoleCalcOOP\bin\Debug\netcoreapp3.1\ConsoleCalcOOP.runtimeconfig.dev.json
+C:\Projects\DotNet\ConsoleCalc\ConsoleCalcOOP\bin\Debug\netcoreapp3.1\ConsoleCalcOOP.dll
+C:\Projects\DotNet\ConsoleCalc\ConsoleCalcOOP\bin\Debug\netcoreapp3.1\ConsoleCalcOOP.pdb
+C:\Projects\DotNet\ConsoleCalc\ConsoleCalcOOP\obj\Debug\netcoreapp3.1\ConsoleCalcOOP.csprojAssemblyReference.cache
+C:\Projects\DotNet\ConsoleCalc\ConsoleCalcOOP\obj\Debug\netcoreapp3.1\ConsoleCalcOOP.AssemblyInfoInputs.cache
+C:\Projects\DotNet\ConsoleCalc\ConsoleCalcOOP\obj\Debug\netcoreapp3.1\ConsoleCalcOOP.AssemblyInfo.cs
+C:\Projects\DotNet\ConsoleCalc\ConsoleCalcOOP\obj\Debug\netcoreapp3.1\ConsoleCalcOOP.csproj.CoreCompileInputs.cache
+C:\Projects\DotNet\ConsoleCalc\ConsoleCalcOOP\obj\Debug\netcoreapp3.1\ConsoleCalcOOP.dll
+C:\Projects\DotNet\ConsoleCalc\ConsoleCalcOOP\obj\Debug\netcoreapp3.1\ConsoleCalcOOP.pdb
+C:\Projects\DotNet\ConsoleCalc\ConsoleCalcOOP\obj\Debug\netcoreapp3.1\ConsoleCalcOOP.genruntimeconfig.cache
